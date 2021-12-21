@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631425957 source:c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\programas en c++\proyecto111\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+
