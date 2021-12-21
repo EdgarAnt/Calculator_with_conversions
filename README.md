@@ -5,8 +5,8 @@
 
 Elaboration of a calculator through pointers with the following operations: 
 
--addition 
--subtraction 
+-addition <br>
+-subtraction <br>
 -multiplication
 -division 
 -Power 
