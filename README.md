@@ -6,7 +6,7 @@
 Elaboration of a calculator through pointers with the following operations: 
 
 -addition <br>
-<img align="right" height="280em" align="right" src="https://user-images.githubusercontent.com/69487958/147026750-0c92d243-6358-45a5-9844-52e46d8cbd0a.gif"/>
+<img align="right" height="270em" align="right" src="https://user-images.githubusercontent.com/69487958/147026750-0c92d243-6358-45a5-9844-52e46d8cbd0a.gif"/>
 -subtraction <br>
 -multiplication <br> 
 -division <br>
