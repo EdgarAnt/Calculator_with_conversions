@@ -11,6 +11,7 @@ Elaboration of a calculator through pointers with the following operations:
 -division <br>
 -Power <br>
 -Factorial <br>
+ <img align="right" height="220em" align="right" src="https://user-images.githubusercontent.com/69487958/147026750-0c92d243-6358-45a5-9844-52e46d8cbd0a.gif"/>
 -Decimal - Binary <br>
 -Binary - Decimal <br>
 -Decimal - Octal <br>
